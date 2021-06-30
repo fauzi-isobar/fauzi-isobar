@@ -1,2 +1,2 @@
-strDest = form.dest.value;
+var strDest = form.dest.value;
 window.open(strDest,"myresults");
