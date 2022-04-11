@@ -1,6 +1,6 @@
 var features = "status=no, toolbar=no, menubar=no, location=no, top=20, left=175, height=500, width=750";
 
-var baseURL = "https://www.abcd.com.sg";
+var baseURL = "https://www.abcd.com.sg"; //this update
 
 var strURL = baseURL + "?machineName=" + strMachine + "&template=snoop" +"&context=DEBUG&date=" + strDate.replace(regExp, "");
 
